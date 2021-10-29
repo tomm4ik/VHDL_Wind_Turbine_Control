@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Oct 29 10:21:34 2021
+# Process ID: 9928
+# Current directory: C:/Users/snego/Desktop/Advanced Electronics/coursework/version control/current2.9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16660 C:\Users\snego\Desktop\Advanced Electronics\coursework\version control\current2.9\current2.9.xpr
+# Log file: C:/Users/snego/Desktop/Advanced Electronics/coursework/version control/current2.9/vivado.log
+# Journal file: C:/Users/snego/Desktop/Advanced Electronics/coursework/version control/current2.9\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/snego/Desktop/Advanced Electronics/coursework/version control/current2.9/current2.9.xpr}
+update_compile_order -fileset sources_1
