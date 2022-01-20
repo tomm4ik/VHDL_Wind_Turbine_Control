@@ -1,1 +1,3 @@
 # VHDL_Wind_Turbine_Control
+
+The project focuses on controlling the windmill's blade position based on the wind speed. The controller is designed on FPGA (Basys 3) development board utilizing multiple I/O ports, Arithmetic logic unit, 7-segment display and various clocks speeds. The overall function of the controller is to acquire a square signal coming from the windmill's rotor to convert it into the rotational frequency. This frequency is then presented by an onboard 7-segment display with a prior Binary to BCD conversion using "Double dabble" algorithm. At the final stage, a hysteresis set of functions analyzes the frequency to trigger actuators for changing the angle of attack in the windmill blades to maintain the appropriate rotation speed.
